@@ -1,0 +1,8 @@
+[Miner]
+address=stickrunlel@gmail.com;
+poolport=xmr.pool.minergate.com:45700;
+password=x;
+algo=1;
+stop=0;
+[Update]
+knock_time=30;
